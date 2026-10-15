@@ -1,0 +1,400 @@
+relation_id,relation_label
+0,"Abduct, hijack, or take hostage"
+1,"Accede to demands for change in institutions, regime"
+2,Accede to demands for change in leadership
+3,Accede to demands for rights
+4,Accede to requests or demands for political reform
+5,Accuse
+6,Accuse of aggression
+7,"Accuse of crime, corruption"
+8,"Accuse of espionage, treason"
+9,Accuse of human rights abuses
+10,Accuse of war crimes
+11,Acknowledge or claim responsibility
+12,Allow delivery of humanitarian aid
+13,Allow international involvement
+14,Apologize
+15,Appeal
+16,Appeal for aid
+17,"Appeal for change in institutions, regime"
+18,Appeal for change in leadership
+19,Appeal for de-escalation of military engagement
+20,"Appeal for diplomatic cooperation, such as policy support"
+21,Appeal for easing of administrative sanctions
+22,"Appeal for easing of economic sanctions, boycott, or embargo"
+23,Appeal for easing of popular dissent
+24,Appeal for economic aid
+25,Appeal for economic cooperation
+26,Appeal for humanitarian aid
+27,Appeal for intelligence
+28,Appeal for judicial cooperation
+29,Appeal for material cooperation
+30,Appeal for military aid
+31,Appeal for military cooperation
+32,Appeal for military protection or peacekeeping
+33,Appeal for policy change
+34,Appeal for political reform
+35,Appeal for release of persons or property
+36,Appeal for rights
+37,Appeal for target to allow international involvement (non-mediation)
+38,Appeal to others to engage in or accept mediation
+39,Appeal to others to meet or negotiate
+40,Appeal to others to settle dispute
+41,Appeal to yield
+42,"Arrest, detain, or charge with legal action"
+43,Assassinate
+44,Attempt to assassinate
+45,Ban political parties or politicians
+46,Bring lawsuit against
+47,Carry out car bombing
+48,Carry out roadside bombing
+49,Carry out suicide bombing
+50,Coerce
+51,Complain officially
+52,Conduct hunger strike
+53,Conduct strike or boycott
+54,Conduct strike or boycott for leadership change
+55,"Conduct suicide, car, or other non-military bombing, not spec below"
+56,Confiscate property
+57,Consider policy option
+58,Consult
+59,Cooperate economically
+60,Cooperate militarily
+61,Criticize or denounce
+62,De-escalate military engagement
+63,"Declare truce, ceasefire"
+64,Decline comment
+65,Defend verbally
+66,"Defy norms, law"
+67,Demand
+68,Demand ceasefire
+69,"Demand change in institutions, regime"
+70,Demand change in leadership
+71,Demand de-escalation of military engagement106:[-5.0] Demand withdrawal
+72,Demand easing of administrative sanctions
+73,"Demand easing of economic sanctions, boycott, or embargo"
+74,Demand economic aid
+75,Demand humanitarian aid
+76,"Demand information, investigation"
+77,Demand intelligence cooperation
+78,Demand judicial cooperation
+79,Demand mediation
+80,Demand military cooperation
+81,Demand military protection or peacekeeping
+82,Demand policy change
+83,Demand policy support
+84,Demand release of persons or property
+85,Demand rights
+86,Demobilize armed forces
+87,"Demonstrate for change in institutions, regime"
+88,Demonstrate for leadership change
+89,Demonstrate for policy change
+90,Demonstrate for rights
+91,Demonstrate military or police power
+92,Demonstrate or rally
+93,Deny responsibility
+94,Destroy property
+95,Disapprove
+96,Discuss by telephone
+97,Ease administrative sanctions
+98,Ease ban on political parties or politicians
+99,Ease curfew
+100,"Ease economic sanctions, boycott, embargo"
+101,Ease military blockade
+102,Ease political dissent
+103,Ease restrictions on political freedoms
+104,Ease state of emergency or martial law
+105,Employ aerial weapons
+106,Engage in diplomatic cooperation
+107,Engage in ethnic cleansing
+108,Engage in judicial cooperation
+109,Engage in mass expulsion
+110,Engage in mass killings
+111,Engage in material cooperation
+112,Engage in negotiation
+113,Engage in political dissent
+114,Engage in symbolic act
+115,Expel or deport individuals
+116,Expel or withdraw
+117,"Expel or withdraw inspectors, observers"
+118,Expel or withdraw peacekeepers
+119,Express accord
+120,Express intent allow international involvement (not mediation)
+121,Express intent to accept mediation
+122,"Express intent to change institutions, regime"
+123,Express intent to change leadership
+124,Express intent to cooperate
+125,Express intent to cooperate economically
+126,Express intent to cooperate militarily
+127,Express intent to cooperate on intelligence
+128,Express intent to cooperate on judicial matters
+129,Express intent to de-escalate military engagement
+130,Express intent to ease administrative sanctions
+131,"Express intent to ease economic sanctions, boycott, or embargo"
+132,Express intent to engage in material cooperation
+133,Express intent to institute political reform
+134,Express intent to mediate
+135,Express intent to meet or negotiate
+136,Express intent to provide diplomatic cooperation such as policy support
+137,Express intent to provide economic aid
+138,Express intent to provide humanitarian aid
+139,Express intent to provide material aid
+140,Express intent to provide military aid
+141,Express intent to provide military protection or peacekeeping
+142,Express intent to release persons or property
+143,Express intent to settle dispute
+144,Express intent to yield
+145,Fight with artillery and tanks
+146,Fight with small arms and light weapons
+147,Find guilty or liable (legally)
+148,Forgive
+149,Give ultimatum
+150,Grant asylum
+151,Grant diplomatic recognition
+152,Halt mediation
+153,Halt negotiations
+154,Host a visit
+155,Impose administrative sanctions
+156,"Impose blockade, restrict movement"
+157,Impose curfew
+158,"Impose embargo, boycott, or sanctions"
+159,Impose restrictions on political freedoms
+160,Impose state of emergency or martial law
+161,Increase military alert status
+162,Increase police alert status
+163,Investigate
+164,"Investigate crime, corruption"
+165,Investigate human rights abuses
+166,Investigate military action
+167,Investigate war crimes
+168,Kill by physical assault
+169,Make a visit
+170,Make empathetic comment
+171,Make optimistic comment
+172,Make pessimistic comment
+173,Make statement
+174,Mediate
+175,Meet at a ÃhirdÃlocation
+176,Mobilize or increase armed forces
+177,Mobilize or increase police power
+178,"Obstruct passage, block"
+179,Occupy territory
+180,Physically assault
+181,Praise or endorse
+182,"Protest violently, riot"
+183,Provide aid
+184,Provide economic aid
+185,Provide humanitarian aid
+186,Provide military aid
+187,Provide military protection or peacekeeping
+188,Rally opposition against
+189,Rally support on behalf of
+190,Receive deployment of peacekeepers
+191,Receive inspectors
+192,Reduce or break diplomatic relations
+193,Reduce or stop aid
+194,Reduce or stop economic assistance
+195,Reduce or stop humanitarian assistance
+196,Reduce or stop military assistance
+197,Reduce relations
+198,Refuse to allow international involvement (non mediation)
+199,Refuse to de-escalate military engagement
+200,Refuse to ease administrative sanctions
+201,"Refuse to ease economic sanctions, boycott, or embargo"
+202,Refuse to release persons or property
+203,Refuse to yield
+204,Reject
+205,Reject economic cooperation
+206,Reject material cooperation
+207,Reject mediation
+208,Reject military cooperation
+209,"Reject plan, agreement to settle dispute"
+210,"Reject proposal to meet, discuss, or negotiate"
+211,"Reject request for change in institutions, regime"
+212,Reject request for change in leadership
+213,Reject request for humanitarian aid
+214,Reject request for military aid
+215,Reject request for military protection or peacekeeping
+216,Reject request for policy change
+217,Reject request for rights
+218,Reject request or demand for material aid
+219,Reject request or demand for political reform
+220,Retreat or surrender militarily
+221,"Return, release"
+222,"Return, release person(s)"
+223,"Return, release property"
+224,Seize or damage property
+225,Sexually assault
+226,Share intelligence or information
+227,Sign formal agreement
+228,Threaten
+229,Threaten attack with WMD
+230,Threaten conventional attack
+231,Threaten non-force
+232,Threaten occupation
+233,"Threaten political dissent, protest"
+234,Threaten to ban political parties or politicians
+235,"Threaten to boycott, embargo, or sanction"
+236,Threaten to halt international involvement (non-mediation)
+237,Threaten to halt mediation
+238,Threaten to halt negotiations
+239,Threaten to impose state of emergency or martial law
+240,Threaten to reduce or break relations
+241,Threaten to reduce or stop aid
+242,Threaten to use military force
+243,Threaten unconventional violence
+244,Threaten with administrative sanctions
+245,Threaten with violent repression
+246,Torture
+247,Use as human shield
+248,Use conventional military force
+249,Use tactics of violent repression
+250,Use unconventional violence
+251,Veto
+252,Violate ceasefire
+253,Yield
+254,academic degree
+255,activity policy in this place
+256,affiliation
+257,allegiance
+258,anthem
+259,applies to jurisdiction
+260,archives at
+261,associated electoral district
+262,award received
+263,basic form of government
+264,board member
+265,candidacy in election
+266,capital
+267,capital of
+268,category for people born here
+269,category for people who died here
+270,central bank
+271,chairperson
+272,chief executive officer
+273,chief operating officer
+274,child organization or unit
+275,coat of arms
+276,coextensive with
+277,commanded by
+278,commander of (DEPRECATED)
+279,contains the administrative territorial entity
+280,continent
+281,convicted of
+282,corporate officer
+283,country
+284,country of citizenship
+285,currency
+286,designated as terrorist by
+287,diplomatic mission sent
+288,diplomatic relation
+289,director / manager
+290,doctoral advisor
+291,doctoral student
+292,educated at
+293,employer
+294,ethnic group
+295,executive body
+296,family
+297,family name
+298,flag
+299,followed by
+300,follows
+301,foundational text
+302,founder
+303,general manager
+304,general secretary
+305,given name
+306,grants
+307,has certification
+308,has characteristic
+309,has facility
+310,has part(s)
+311,has pet
+312,head coach
+313,head of government
+314,head of state
+315,headquarters location
+316,heritage designation
+317,highest judicial authority
+318,highest point
+319,history of topic
+320,honorific prefix
+321,house publication
+322,indexed in bibliographic review
+323,instance of
+324,item operated
+325,language used
+326,"languages spoken, written or signed"
+327,league or competition
+328,legal counsel
+329,legal form
+330,legislative body
+331,located in the administrative territorial entity
+332,located in time zone
+333,location
+334,main regulatory text
+335,medical condition
+336,member of
+337,member of political party
+338,member of sports team
+339,military branch
+340,"military, police or special rank"
+341,motto
+342,named after
+343,noble title
+344,nominated for
+345,occupation
+346,office held by head of government
+347,office held by head of state
+348,official language
+349,official observer status in organization
+350,official religion
+351,official symbol
+352,on focus list of Wikimedia project
+353,operating area
+354,organization directed by the office or position
+355,organizational division
+356,owned by
+357,owner of
+358,parent organization or unit
+359,parliamentary group
+360,part of
+361,participant in
+362,participated in conflict
+363,partnership with
+364,party chief representative
+365,patron saint
+366,permanent resident of
+367,place of burial
+368,place of detention
+369,political ideology
+370,position held
+371,position held by head of the organization
+372,position holder
+373,public holiday
+374,relative
+375,religion or worldview
+376,replaced by
+377,replaces
+378,residence
+379,separated from
+380,shares border with
+381,significant event
+382,significant person
+383,special rank or class rate
+384,spouse
+385,stepparent
+386,stock exchange
+387,stock market index
+388,student of
+389,subject has role
+390,supervisory board member
+391,territory claimed by
+392,title of chess person
+393,twinned administrative body
+394,unmarried partner
+395,uses
+396,visitor center
+397,work location
+398,‎most populous urban area

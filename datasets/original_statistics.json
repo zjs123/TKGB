@@ -1,0 +1,35 @@
+{
+  "test": {
+    "entity_count": 9509,
+    "event_fact_count": 682846,
+    "interval_fact_count": 13418,
+    "intervals_ending_in_window": 2302,
+    "point_fact_count": 996,
+    "relation_count": 387,
+    "test_entity_overlap_availability": {
+      "inductive_event_fact_count": 83023,
+      "inductive_ratio": 0.12158378316633618,
+      "transductive_event_fact_count": 599823,
+      "transductive_ratio": 0.8784162168336638
+    },
+    "time_granularity": "year"
+  },
+  "train": {
+    "entity_count": 8922,
+    "event_fact_count": 961152,
+    "interval_fact_count": 13593,
+    "intervals_ending_in_window": 3531,
+    "point_fact_count": 1087,
+    "relation_count": 395,
+    "time_granularity": "year"
+  },
+  "valid": {
+    "entity_count": 6703,
+    "event_fact_count": 14322,
+    "interval_fact_count": 10395,
+    "intervals_ending_in_window": 333,
+    "point_fact_count": 145,
+    "relation_count": 319,
+    "time_granularity": "year"
+  }
+}
