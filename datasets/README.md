@@ -1,1 +1,1 @@
-Due to the large size of the dataset and the requirement for anonymity, we are unable to provide full downloads on public cloud disks now. Here, we offer the complete data of a dataset. The full version will be released after acceptance.
+Due to the large size of the dataset and the requirement for anonymity, we are unable to provide full downloads on public cloud disks now. Here, we offer the complete data of finace-day dataset. The full version of 9 datasets will be released after acceptance.
